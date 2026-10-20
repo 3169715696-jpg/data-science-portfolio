@@ -36,6 +36,11 @@ show where size stops explaining the answer.
 - **Reproduce:** `pip install -r requirements.txt && python anage_analysis.py` (dataset download
   instructions in the repo README)
 
+The companion chart evaluates the same two fits at fixed body masses, which makes the size-independent
+gap explicit: ×1.76 at 10 g, ×1.97 at 1 kg, ×2.20 at 100 kg.
+
+![Predicted lifespan at fixed body mass](images/class_scaling_summary.png)
+
 ## About this portfolio
 
 Built with GitHub Pages. Every project page links to a public repository containing the code, the
