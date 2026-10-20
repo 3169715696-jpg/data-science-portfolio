@@ -8,9 +8,9 @@ finding, and into a script that reproduces it. This page collects the projects I
 
 ## Skills
 
-**Analysis** Python · pandas · NumPy · statistical modelling (OLS, log–log scaling) · data cleaning
-**Visualization** matplotlib · Seaborn · Bokeh · ggplot · colour-blind-safe palettes · annotation design
-**Tooling** Jupyter · Git / GitHub · GitHub Pages · reproducible pipelines
+- **Analysis** — Python · pandas · NumPy · statistical modelling (OLS, log–log scaling) · data cleaning
+- **Visualization** — matplotlib · Seaborn · Bokeh · ggplot · colour-blind-safe palettes · annotation design
+- **Tooling** — Jupyter · Git / GitHub · GitHub Pages · reproducible pipelines
 
 ## Project
 
