@@ -32,7 +32,8 @@ of body mass the fitted model gives **13 years for a mammal and 26 for a bird**.
 exceptions — a 70 kg human outliving a 3,672 kg elephant, a 3 g hummingbird outliving a 2.4 g shrew —
 show where size stops explaining the answer.
 
-- **Repository:** https://github.com/3169715696-jpg/data-science-project
+- **Project repository:** [3169715696-jpg/data-science-project](https://github.com/3169715696-jpg/data-science-project)
+  — code, requirements, figures and the statistics behind them
 - **Reproduce:** `pip install -r requirements.txt && python anage_analysis.py` (dataset download
   instructions in the repo README)
 
